@@ -1,6 +1,6 @@
 # このリポジトリについて
 
-Python Machine Learningを学ぶためのipython notebookの置き場になる予定
+ Composing Programsを学ぶためのリポジトリ
 
 # Setup
 
